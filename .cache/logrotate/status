@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/ishaya/.cache/upstart/unity7.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/indicator-sound.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/window-stack-bridge.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/*.log" 2019-8-21-10:0:0
+"/home/ishaya/.cache/upstart/dbus.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/hud.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/gnome-keyring-ssh.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/update-notifier-release.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/unity-panel-service.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/unity-settings-daemon.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/ssh-agent.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/upstart-event-bridge.log" 2019-8-21-10:14:45
+"/home/ishaya/.cache/upstart/gpg-agent.log" 2019-8-21-10:14:45
